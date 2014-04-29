@@ -18,8 +18,7 @@ Useful tools to inspect values like the heap, GC throughput, thread
 activity (or lack thereof), and so on:
 
 - [jvmtop](https://code.google.com/p/jvmtop/)
--
-  [jstack](http://docs.oracle.com/javase/1.5.0/docs/tooldocs/share/jstack.html)
+- [jstack](http://docs.oracle.com/javase/1.5.0/docs/tooldocs/share/jstack.html)
 
 Many of these require the installation of a jdk. E.g.
 
