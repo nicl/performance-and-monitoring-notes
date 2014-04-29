@@ -1,4 +1,7 @@
-performance-and-monitoring-notes
-================================
+Performance and Monitoring
+==========================
 
-Notes and resources for performance and monitoring
+A collection of learnings and tools relating to performance and
+monitoring.
+
+See [docs](/docs) for available topics.
